@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently a Technology Student and Researcher at the Catholic University of Pernambuco (UNICAP) where I study Internet Systems 
-- 👀 I’m currently learning Machine Learning and Data Science 
+- 👀 I’m currently interested about Machine Learning and Data Science 
 - 📫 You can reach me trought my <a href="https://www.linkedin.com/in/suelennramos/" target=_blank>LinkedIn</a>
 
 <!---
