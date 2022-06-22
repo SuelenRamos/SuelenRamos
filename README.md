@@ -1,6 +1,6 @@
-<h1>Hello! I'm Suelen Ramos</h1>
-<hr>
-<h2>Graduate Student, Researcher and and a aspiring Data Scientist</h2> 
+<center><h1>Hello! I'm Suelen Ramos</h1>
+
+<h2>Graduate Student, Researcher and and a aspiring Data Scientist</h2></center> 
 
 
 - 🌱 I’m currently a Technology Student and Researcher at the Catholic University of Pernambuco (UNICAP) where I study Internet Systems 
