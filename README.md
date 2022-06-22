@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a Technology Student and Researcher at the Catholic University of Pernambuco (UNICAP) where I study Internet Systems 
 - 👀 I’m currently interested about Machine Learning and Data Science 
-- 📫 You can reach me trought my <a href="https://www.linkedin.com/in/suelennramos/" target="_blank">LinkedIn</a>
+- 📫 You can reach me trought my <a href="https://www.linkedin.com/in/suelennramos/" target="_blank" rel="next" type ="external">LinkedIn</a>
 
 <!---
 SuelenRamos/SuelenRamos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
